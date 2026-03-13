@@ -1,5 +1,5 @@
 # 2026-BoB-tech-product
-# LLM Accuracy & Discrepancy Tracker
+# LLM Accuracy & Discrepancy Tracker By St Philip's College SPC_Tech_031326
 
 ### What your application does
 This application is a dashboard mockup designed to help businesses audit how major Large Language Models (LLMs) interpret their company data. It simulates comparing the outputs of three major AI models (GPT 5.4, Sonnet 4.6, and Gemini 3.1) against a company's official website (the "Source of Truth"). 
